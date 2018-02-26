@@ -1015,4 +1015,4 @@ A curated list of awesome Java frameworks, libraries and software.
 
 ## Credit
 
-This resource was originally sourced from [AwseomeJava](https://github.com/akullpp/awesome-java)
+This resource was originally sourced from [Awesome Java](https://github.com/akullpp/awesome-java)
