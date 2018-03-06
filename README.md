@@ -1,4 +1,4 @@
-# Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Java 
 
 A curated list of awesome Java frameworks, libraries and software.
 
@@ -1013,6 +1013,15 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Vanilla Java](https://vanilla-java.github.io/)
 * [Voxxed](https://www.voxxed.com/)
 
-## Credit
+## Credit(s)
 
-This resource was originally sourced from [Awesome Java](https://github.com/akullpp/awesome-java)
+This resource was originally sourced from [Awesome Java](https://github.com/akullpp/awesome-java).
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+But others were inspired to create their own awsome java sources:
+* [uhub/awesome-java](https://github.com/uhub/awesome-java)
+* [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
+* [tedyoung/awesome-java8](https://github.com/tedyoung/awesome-java8)
+* [java.libhunt.com](https://java.libhunt.com/) - This one has a search engine.
+* [wtsxDev/Amazing-Java-List](https://github.com/wtsxDev/Amazing-Java-List/)
+
+
