@@ -1013,6 +1013,10 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Vanilla Java](https://vanilla-java.github.io/)
 * [Voxxed](https://www.voxxed.com/)
 
+## Java Development in 2018
+There is a state of play diagram that was drawn from https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018
+Alternatively you can see a pdf version of this in the repository titled "Java Development in 2018.pdf"
+
 ## Credit(s)
 
 This resource was originally sourced from [Awesome Java](https://github.com/akullpp/awesome-java).
